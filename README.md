@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charlesavt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Manual order entry (MOE)
+- 🌱 I’m currently learning GraphQL
+- 💞️ I’m looking to collaborate on Manual order entry (MOE). Form entry prepared.
 - 📫 How to reach me charles.thomas@sage.com
 
 <!---
